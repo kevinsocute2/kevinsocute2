@@ -1,7 +1,7 @@
 <h1 align="center">Hello 💞, I'm Kevin Sanchez</h1>
-<h3 align="center">A passionate frontend developer from R3DZ0N3 Team</h3>
+<h3 align="center">A passionate frontend developer from Xeon Thread</h3>
 
-- 🔭 I’m currently working on [R3DZ0N3](https://t.me/Team_R3DZ0N3)
+- 🔭 I’m currently working on [XEON THREAD](https://t.me/xeonthread)
 
 - 📝 I regularly write articles on [craxpro.io, nulled.to, drcrypter.ru]
 
